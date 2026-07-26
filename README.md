@@ -10,6 +10,8 @@ https://github.com/LostDiscipleAkaza/chess-website.git - chess website with pass
 
 https://github.com/19KB-Studio/kiwiBot.git - A Discord bot that keeps your community updated with daily AI, tech, and cybersecurity news.
 
+https://github.com/LostDiscipleAkaza/ASCII-Rendering-Engine.git - A software rendering engine that converts 2D images and 3D models into interactive, colorful ASCII art inside your terminal.
+
 
 
 ## 🛠️ Tech Stack
