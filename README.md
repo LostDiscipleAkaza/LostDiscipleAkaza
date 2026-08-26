@@ -16,9 +16,11 @@ https://github.com/LostDiscipleAkaza/ASCII-Rendering-Engine.git - A software ren
 
 ## 🛠️ Tech Stack
 
-C, Python
-Front end developer
-Cybersecurity practitioner
+C, Python, Java (OOP) | 
+
+Frontend developer | 
+Cybersecurity practitioner | 
+Part time Writer
 
 
 ## 📫 Reach me
