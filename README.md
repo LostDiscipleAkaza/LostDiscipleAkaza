@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=Bhuvaneshwar&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=LostDiscipleAkaza%20%E2%80%A2%20Developer%20%26%20Cybersecurity%20Practitioner&descSize=18&descAlignY=68" width="100%"/>
+<img src="header.svg" width="100%" alt="Bhuvaneshwar - LostDiscipleAkaza"/>
 
 <!-- Typing Animation Subtitle -->
 <p align="center">
@@ -12,6 +12,9 @@
 
 <!-- Social Links Badges -->
 <p align="center">
+  <a href="https://lostdiscipleakaza.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Stories%20&%20Writings-lostdiscipleakaza.github.io-7952B3?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Stories & Writings" />
+  </a>
   <a href="mailto:bhuvaneshwar535@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -31,7 +34,7 @@
 
 - 🛡️ **Cybersecurity Practitioner** exploring defensive systems, penetration concepts, and secure coding
 - 💻 **Software Developer** building terminal tools, software rendering engines, and robust applications
-- ✍️ **Part-time Writer** breaking down technical concepts and ideas
+- ✍️ **Part-time Writer** crafting original fiction, essays, and reflections — read my stories on [**lostdiscipleakaza.github.io**](https://lostdiscipleakaza.github.io/)
 - 🎯 **Current Focus**: Low-level systems programming, algorithms, and defensive security
 
 ---
@@ -60,6 +63,7 @@
 
 | Project | Description | Stack / Category |
 | :--- | :--- | :--- |
+| 📖 **[LostDiscipleAkaza Stories](https://lostdiscipleakaza.github.io/)** | Personal publication space featuring original stories (*The Girl in Blue*, *A Shadow that Fell in Love with the Light*, *Anamnesis Echo*). | `Writing` `Literature` `GitHub Pages` |
 | 🎨 **[ASCII Rendering Engine](https://github.com/LostDiscipleAkaza/ASCII-Rendering-Engine)** | Software rendering engine converting 2D images and 3D models into colorful, interactive ASCII art in your terminal. | `C` `Computer Graphics` `CLI` |
 | 🤖 **[KiwiBot](https://github.com/19KB-Studio/kiwiBot)** | A Discord bot that keeps tech communities updated daily with curated AI, tech, and cybersecurity news. | `Python` `Discord API` `Automation` |
 | ♟️ **[Chess Website](https://github.com/LostDiscipleAkaza/chess-website)** | Interactive chess platform supporting local pass & play along with personality-driven AI bots. | `AI` `Web` |
@@ -74,11 +78,10 @@
 
 ---
 
-## 📈 GitHub Stats & Streak
+## 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LostDiscipleAkaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=LostDiscipleAkaza&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="stats.svg" alt="GitHub Stats & Overview" width="100%" />
 </div>
 
 ---
@@ -111,6 +114,11 @@
 ---
 
 ### 📖 From My Stories
+
+> 🌐 **Full stories and upcoming pieces are published at [lostdiscipleakaza.github.io](https://lostdiscipleakaza.github.io/)**
+
+> *"She had chosen Bharat for love, and him for survival within loneliness."*  
+> — **A Shadow that Fell in Love with the Light**
 
 > *"Love is often nothing more than the wish to take another person’s pain into one’s own body."*  
 > — **The Girl in Blue**
@@ -173,6 +181,7 @@
 
 Feel free to connect or drop a message:
 
+- 📖 **Stories & Articles:** [lostdiscipleakaza.github.io](https://lostdiscipleakaza.github.io/)
 - 📧 **Email:** [bhuvaneshwar535@gmail.com](mailto:bhuvaneshwar535@gmail.com)
 - 📸 **Instagram:** [@\_bhuviii\_\_01](https://instagram.com/_bhuviii__01)
 - 🐙 **GitHub:** [@LostDiscipleAkaza](https://github.com/LostDiscipleAkaza)
