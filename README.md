@@ -112,9 +112,6 @@
 
 ### 📖 From My Stories
 
-> *"She had chosen Bharat for love, and him for survival within loneliness."*  
-> — **A Shadow that Fell in Love with the Light**
-
 > *"Love is often nothing more than the wish to take another person’s pain into one’s own body."*  
 > — **The Girl in Blue**
 
