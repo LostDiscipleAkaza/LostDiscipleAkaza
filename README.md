@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Header Banner -->
@@ -7,7 +6,7 @@
 <!-- Typing Animation Subtitle -->
 <p align="center">
   <a href="https://github.com/LostDiscipleAkaza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+things%2C+breaking+things%2C+occasionally+fixing+them.;Cybersecurity+Practitioner+%7C+Low-Level+%26+Web;Part-time+Writer+%7C+Lifelong+Learner;Always+striving+for+the+peak+of+strength." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+things%2C+breaking+things%2C+occasionally+fixing+them.;Cybersecurity+Practitioner;C+%E2%80%A2+Python+%E2%80%A2+Java+(OOP)+%E2%80%A2+Bash;Part-time+Writer+%7C+Lifelong+Learner." alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,57 +23,36 @@
   </a>
 </p>
 
-<!-- Featured Aesthetic Quote -->
-<br/>
-
-> ### ❝ *Become strong. Don't die before you reach your peak.* ❞
-> — **Akaza (Demon Slayer)**  
->
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*  
-> — **Martin Fowler**
-
-<br/>
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
+- 🛡️ **Cybersecurity Practitioner** exploring defensive systems, penetration concepts, and secure coding
+- 💻 **Software Developer** building terminal tools, software rendering engines, and robust applications
+- ✍️ **Part-time Writer** breaking down technical concepts and ideas
+- 🎯 **Current Focus**: Low-level systems programming, algorithms, and defensive security
+
+---
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="90%" alt="Coding Aesthetic Banner" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java_(OOP)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java (OOP)" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
 
 <br/>
 
-- 🛡️ **Cybersecurity Practitioner** & enthusiast exploring defensive systems, penetration concepts & secure coding
-- 💻 **Software & Frontend Developer** crafting interactive web apps, terminal tools, and software engines
-- ✍️ **Part-time Writer** breaking down technical concepts and stories
-- 🎯 **Current Focus**: Low-level systems programming, graphics engines, and algorithmic problem-solving
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
-### 🛡️ Cybersecurity & Tools
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Network_Security-000000?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
-  <img src="https://img.shields.io/badge/OOP-2E7D32?style=for-the-badge&logo=codeforces&logoColor=white" alt="OOP" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+</div>
 
 ---
 
@@ -82,38 +60,115 @@
 
 | Project | Description | Stack / Category |
 | :--- | :--- | :--- |
-| ♟️ **[Chess Website](https://github.com/LostDiscipleAkaza/chess-website)** | Interactive chess platform supporting local pass & play along with personality-driven AI bots. | `Frontend` `AI` `Web` |
-| 🤖 **[KiwiBot](https://github.com/19KB-Studio/kiwiBot)** | A Discord bot that keeps tech communities updated daily with curated AI, tech, and cybersecurity news. | `Python` `Discord API` `Automation` |
 | 🎨 **[ASCII Rendering Engine](https://github.com/LostDiscipleAkaza/ASCII-Rendering-Engine)** | Software rendering engine converting 2D images and 3D models into colorful, interactive ASCII art in your terminal. | `C` `Computer Graphics` `CLI` |
+| 🤖 **[KiwiBot](https://github.com/19KB-Studio/kiwiBot)** | A Discord bot that keeps tech communities updated daily with curated AI, tech, and cybersecurity news. | `Python` `Discord API` `Automation` |
+| ♟️ **[Chess Website](https://github.com/LostDiscipleAkaza/chess-website)** | Interactive chess platform supporting local pass & play along with personality-driven AI bots. | `AI` `Web` |
 
 ---
 
-## 📊 Contribution Analytics
+## 📊 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LostDiscipleAkaza&theme=tokyo-night&area=true&hide_border=true&custom_title=Annual%20Contribution%20Analytics" width="100%" alt="Activity Graph" />
+  <img src="profile-3d-contrib/profile-custom-gitblock.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
 
-## 📈 GitHub Activity & Streak
+## 📈 GitHub Stats & Streak
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LostDiscipleAkaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostDiscipleAkaza&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LostDiscipleAkaza&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="96%" />
+  <img src="https://streak-stats.demolab.com/?user=LostDiscipleAkaza&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 ---
 
-## 💡 Daily Inspiration
+## 🖋️ Words & Literary Reflections
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Programming Quote" width="96%" />
-</div>
+### 💭 Voices I Admire
+
+> *"You are the knife I turn inside myself; that is love. That, my dear, is love."*  
+> — **Franz Kafka**, *Letters to Milena*
+
+> *"My God, a whole moment of happiness! Is that too little, even for the whole of a man's life?"*  
+> — **Fyodor Dostoevsky**, *White Nights*
+
+> *"In the midst of winter, I found there was, within me, an invincible summer."*  
+> — **Albert Camus**, *Return to Tipasa*
+
+> *"I took a deep breath and listened to the old brag of my heart: I am, I am, I am."*  
+> — **Sylvia Plath**, *The Bell Jar*
+
+> *"Perhaps one did not want to be loved so much as to be understood."*  
+> — **George Orwell**, *1984*
+
+> *"He who has a why to live can bear almost any how."*  
+> — **Friedrich Nietzsche**, *Twilight of the Idols*
+
+> *"The philosophers have only interpreted the world in various ways; the point, however, is to change it."*  
+> — **Karl Marx**, *Theses on Feuerbach*
+
+---
+
+### 📖 From My Stories
+
+> *"She had chosen Bharat for love, and him for survival within loneliness."*  
+> — **A Shadow that Fell in Love with the Light**
+
+> *"Love is often nothing more than the wish to take another person’s pain into one’s own body."*  
+> — **The Girl in Blue**
+
+> *"In the end, the shadow did not become the light. It simply learned how to live without it."*  
+> — **A Shadow that Fell in Love with the Light**
+
+> *"Somewhere in the world, a man who loved you silently is still keeping his promise."*  
+> — **The Girl in Blue**
+
+> *"I did not lose you. You were never mine to lose, and that is the grief that has no grave."*  
+> — **Reflections on Silent Grief**
+
+> *"Constants are never meaningless."*  
+> — **Anamnesis Echo**
+
+<details>
+<summary><b>📜 More Excerpts & Selected Lines from My Writings</b></summary>
+<br/>
+
+#### From *The Girl in Blue*
+- *“Their words struck me like stones thrown at a window behind which a child is sleeping.”*
+- *“The wound you felt that day ended with the night; the wound I carry has learned how to live inside time.”*
+- *“That night my heart broke without sound.”*
+- *“Even when your voice no longer reaches me, my silence continues speaking your name.”*
+- *“How cruelly we learn the value of moments only after time has taken it from us.”*
+- *“I no longer ask that you become mine. I ask only that life be gentle with you.”*
+- *“I shall take those magic moments to my grave, where even death will have to learn that there was once a girl who made an ordinary life feel like sunlight.”*
+
+#### From *A Shadow that Fell in Love with the Light*
+- *“What people call adjustment is often just a well practiced form of absence.”*
+- *“Sometimes, it comes from the quiet refusal to fall back into what you have already survived.”*
+- *“Some people do not stay in your life forever. They simply arrive long enough to return forgotten parts of you back to yourself.”*
+- *“Just two people continuing their lives after surviving a story that only one of them truly lived.”*
+- *“He was not mourning rejection. He was mourning meaning itself.”*
+- *“Nothing had really been lost. There had never been anything to lose.”*
+
+#### From *Anamnesis Echo*
+- *“Constants are never meaningless.”*
+- *“Live. Laugh. Break. Love. Live every breath, every moment.”*
+
+#### Silent Echoes & Story Themes
+- *“Some people love you loudly. Others love you so quietly that you never learn what they carried for you.”*
+- *“He never asked to be remembered. He only asked that she be safe.”*
+- *“A shadow does not envy the light. It only remembers who it was standing beside.”*
+- *“Pushing her away was the only way his love knew to hold her.”*
+- *“Not every ending is a goodbye. Some are just a promise kept from a distance.”*
+- *“To you it was an ordinary Tuesday. To me it was the day my whole life changed direction.”*
+- *“I prayed for your happiness, and God answered, just not in my direction.”*
+- *“The hardest part of loving someone silently is that no one comes to mourn it with you.”*
+- *“You will never know how many times I was the reason you were okay.”*
+- *“I knew your favourite flower, your fears, your favourite song, and still I was a stranger who had no right to miss you.”*
+- *“Some people break your heart. You broke mine without ever knowing it was in your hands.”*
+
+</details>
 
 ---
 
@@ -124,36 +179,3 @@ Feel free to connect or drop a message:
 - 📧 **Email:** [bhuvaneshwar535@gmail.com](mailto:bhuvaneshwar535@gmail.com)
 - 📸 **Instagram:** [@\_bhuviii\_\_01](https://instagram.com/_bhuviii__01)
 - 🐙 **GitHub:** [@LostDiscipleAkaza](https://github.com/LostDiscipleAkaza)
-
-<div align="center">
-  <sub>⭐️ <i>"Stay curious, stay hungry, keep building."</i> ⭐️</sub>
-</div>
-=======
-# Hey, I'm Bhuvaneshwar aka LostDiscipleAkaza 
-
-Building things, breaking things, occasionally fixing them.
-
-![](./profile-3d-contrib/profile-custom-gitblock.svg)
-
-## 🚀 Projects
-
-https://github.com/LostDiscipleAkaza/chess-website.git - chess website with pass & play and personality driven ai bots
-
-https://github.com/19KB-Studio/kiwiBot.git - A Discord bot that keeps your community updated with daily AI, tech, and cybersecurity news.
-
-https://github.com/LostDiscipleAkaza/ASCII-Rendering-Engine.git - A software rendering engine that converts 2D images and 3D models into interactive, colorful ASCII art inside your terminal.
-
-
-
-## 🛠️ Tech Stack
-
-C, Python, Java (OOP) 
-
-Frontend developer | 
-Cybersecurity practitioner | 
-Part time Writer
-
-
-## 📫 Reach me
-mail: bhuvaneshwar535@gmail.com
-insta: @_bhuviii__01
