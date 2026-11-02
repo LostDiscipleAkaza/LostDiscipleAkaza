@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- Header Banner -->
@@ -127,3 +128,32 @@ Feel free to connect or drop a message:
 <div align="center">
   <sub>⭐️ <i>"Stay curious, stay hungry, keep building."</i> ⭐️</sub>
 </div>
+=======
+# Hey, I'm Bhuvaneshwar aka LostDiscipleAkaza 
+
+Building things, breaking things, occasionally fixing them.
+
+![](./profile-3d-contrib/profile-custom-gitblock.svg)
+
+## 🚀 Projects
+
+https://github.com/LostDiscipleAkaza/chess-website.git - chess website with pass & play and personality driven ai bots
+
+https://github.com/19KB-Studio/kiwiBot.git - A Discord bot that keeps your community updated with daily AI, tech, and cybersecurity news.
+
+https://github.com/LostDiscipleAkaza/ASCII-Rendering-Engine.git - A software rendering engine that converts 2D images and 3D models into interactive, colorful ASCII art inside your terminal.
+
+
+
+## 🛠️ Tech Stack
+
+C, Python, Java (OOP) 
+
+Frontend developer | 
+Cybersecurity practitioner | 
+Part time Writer
+
+
+## 📫 Reach me
+mail: bhuvaneshwar535@gmail.com
+insta: @_bhuviii__01
