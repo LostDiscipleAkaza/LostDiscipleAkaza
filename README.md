@@ -5,7 +5,7 @@
 
 <!-- Matching Poetic Line -->
 > ### ❝ *I spent centuries seeking strength, forgetting that the only thing I ever wanted to be strong for was you.* ❞  
-> — **Hakuji (Akaza)**
+> — **Akaza**
 
 <br/>
 
