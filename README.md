@@ -1,11 +1,7 @@
 <div align="center">
 
-<!-- Akaza 2K Cinematic Video -->
-<video src="akaza.mp4" width="100%" controls autoplay loop muted></video>
-
-<p align="center">
-  <sub>🎬 <b>[2K QHD • 1440p]</b> • <a href="https://github.com/LostDiscipleAkaza/LostDiscipleAkaza/raw/main/akaza.mp4"><b>▶ Watch 2K Video (with Sound)</b></a></sub>
-</p>
+<!-- Akaza Cinematic Animation -->
+<img src="akaza.webp" width="100%" alt="Akaza &amp; Koyuki" />
 
 <!-- Matching Poetic Line -->
 > ### ❝ *I spent centuries seeking strength, forgetting that the only thing I ever wanted to be strong for was you.* ❞  
