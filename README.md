@@ -21,14 +21,17 @@
   <a href="https://lostdiscipleakaza.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Stories-7952B3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Stories & Writings" />
   </a>
+  <a href="https://www.linkedin.com/in/bhuvaneshwar-pambha-33977b285" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/LostDiscipleAkaza">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
   <a href="mailto:bhuvaneshwar535@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://instagram.com/_bhuviii__01" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://github.com/LostDiscipleAkaza">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -187,6 +190,7 @@
 Feel free to connect or drop a message:
 
 - 📖 **Stories & Articles:** [lostdiscipleakaza.github.io](https://lostdiscipleakaza.github.io/)
+- 💼 **LinkedIn:** [Bhuvaneshwar Pambha](https://www.linkedin.com/in/bhuvaneshwar-pambha-33977b285)
 - 📧 **Email:** [bhuvaneshwar535@gmail.com](mailto:bhuvaneshwar535@gmail.com)
 - 📸 **Instagram:** [@\_bhuviii\_\_01](https://instagram.com/_bhuviii__01)
 - 🐙 **GitHub:** [@LostDiscipleAkaza](https://github.com/LostDiscipleAkaza)
