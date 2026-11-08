@@ -12,14 +12,14 @@
 <!-- Typing Animation Subtitle -->
 <p align="center">
   <a href="https://github.com/LostDiscipleAkaza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+things%2C+breaking+things%2C+occasionally+fixing+them.;Cybersecurity+Practitioner;C+%E2%80%A2+Python+%E2%80%A2+Java+(OOP)+%E2%80%A2+Bash;Part-time+Writer+%7C+Lifelong+Learner." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=750&lines=Finding+things%2C+breaking+things%2C+occasionally+fixing+them.;Cybersecurity+Practitioner;C+%E2%80%A2+Python+%E2%80%A2+Java+(OOP)+%E2%80%A2+Bash;Part-time+Writer+%7C+Lifelong+Learner." alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Social Links Badges -->
 <p align="center">
   <a href="https://lostdiscipleakaza.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Stories%20&%20Writings-lostdiscipleakaza.github.io-7952B3?style=for-the-badge&logo=githubpages&logoColor=white" alt="My Stories & Writings" />
+    <img src="https://img.shields.io/badge/Stories-7952B3?style=for-the-badge&logo=githubpages&logoColor=white" alt="Stories & Writings" />
   </a>
   <a href="mailto:bhuvaneshwar535@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -40,7 +40,7 @@
 
 - 🛡️ **Cybersecurity Practitioner** exploring defensive systems, penetration concepts, and secure coding
 - 💻 **Software Developer** building terminal tools, software rendering engines, and robust applications
-- ✍️ **Part-time Writer** crafting original fiction, essays, and reflections — read my stories on [**lostdiscipleakaza.github.io**](https://lostdiscipleakaza.github.io/)
+- ✍️ **Part-time Writer** crafting original fiction, essays, and reflections
 - 🎯 **Current Focus**: Low-level systems programming, algorithms, and defensive security
 
 ---
@@ -69,7 +69,6 @@
 
 | Project | Description | Stack / Category |
 | :--- | :--- | :--- |
-| 📖 **[LostDiscipleAkaza Stories](https://lostdiscipleakaza.github.io/)** | Personal publication space featuring original stories (*The Girl in Blue*, *A Shadow that Fell in Love with the Light*, *Anamnesis Echo*). | `Writing` `Literature` `GitHub Pages` |
 | 🎨 **[ASCII Rendering Engine](https://github.com/LostDiscipleAkaza/ASCII-Rendering-Engine)** | Software rendering engine converting 2D images and 3D models into colorful, interactive ASCII art in your terminal. | `C` `Computer Graphics` `CLI` |
 | 🤖 **[KiwiBot](https://github.com/19KB-Studio/kiwiBot)** | A Discord bot that keeps tech communities updated daily with curated AI, tech, and cybersecurity news. | `Python` `Discord API` `Automation` |
 | ♟️ **[Chess Website](https://github.com/LostDiscipleAkaza/chess-website)** | Interactive chess platform supporting local pass & play along with personality-driven AI bots. | `AI` `Web` |
